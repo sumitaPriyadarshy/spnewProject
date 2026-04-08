@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: SpnewProject
+  gitServerName: sumitaAccount
+  gitUrl: https://github.com/sumitaPriyadarshy
+  gitUsername: sumitaPriyadarshy
+  gitBranch: main

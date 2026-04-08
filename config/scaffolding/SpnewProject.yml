@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/sumitaPriyadarshy
   gitUsername: sumitaPriyadarshy
   gitBranch: main
+- name: RefDataPkg
+  gitServerName: sumitaAccount
+  gitUrl: https://github.com/sumitaPriyadarshy
+  gitUsername: sumitaPriyadarshy
+  gitBranch: main
